@@ -1,0 +1,12 @@
+Department,JobRole,Employees,Attritions,AttritionRate
+Human Resources,Human Resources,33,6,0.18181818181818182
+Human Resources,Manager,38,5,0.13157894736842105
+Research & Development,Healthcare Representative,161,26,0.16149068322981366
+Research & Development,Laboratory Technician,148,24,0.16216216216216217
+Research & Development,Manager,181,22,0.12154696132596685
+Research & Development,Manufacturing Director,168,22,0.13095238095238096
+Research & Development,Research Director,157,20,0.12738853503184713
+Research & Development,Research Scientist,160,33,0.20625
+Sales,Manager,150,28,0.18666666666666668
+Sales,Sales Executive,129,34,0.26356589147286824
+Sales,Sales Representative,145,25,0.1724137931034483
